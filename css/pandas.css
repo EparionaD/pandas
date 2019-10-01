@@ -1,0 +1,130 @@
+@media(max-width: 575px){
+    /* Inicio header */
+    .cabecera{
+        background-color: #da8b6f;
+        padding-bottom: 1em;
+    }
+    .cabecera-titulo{
+        color: white;
+        text-align: right;
+        padding: 1em .8em;
+    }
+    .cabecera-titulo div h1{
+        font-size: 1.3em;
+    }
+    .cabecera-titulo div p{
+        font-size: .7em;
+    }
+    .cabecera-imagen div{
+        background-image: url(../assets/images/uno.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 350px;
+    }
+    /* Inicio header */
+}
+@media(min-width: 576px) and (max-width: 767px){
+    /* Inicio header */
+    .cabecera{
+        background-color: #da8b6f;
+        padding-bottom: 1em;
+    }
+    .cabecera-titulo{
+        color: white;
+        text-align: right;
+        padding: 1.3em 1em;
+    }
+    .cabecera-titulo div h1{
+        font-size: 1.5em;
+    }
+    .cabecera-titulo div p{
+        font-size: .9em;
+    }
+    .cabecera-imagen div{
+        background-image: url(../assets/images/uno.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 400px;
+    }
+    /* Inicio header */
+}
+@media(min-width: 768px) and (max-width: 991px){
+    /* Inicio header */
+    .cabecera{
+        background-color: #da8b6f;
+        padding-bottom: 1em;
+    }
+    .cabecera-titulo{
+        color: white;
+        text-align: right;
+        padding: 1.5em 1.2em;
+    }
+    .cabecera-titulo div h1{
+        font-size: 1.7em;
+    }
+    .cabecera-titulo div p{
+        font-size: 1.1em;
+    }
+    .cabecera-imagen div{
+        background-image: url(../assets/images/uno.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 450px;
+    }
+    /* Inicio header */
+}
+@media(min-width: 992px) and (max-width: 1199px){
+    /* Inicio header */
+    .cabecera{
+        background-color: #da8b6f;
+        padding-bottom: 1em;
+    }
+    .cabecera-titulo{
+        color: white;
+        text-align: right;
+        padding: 1.7em 1.4em;
+    }
+    .cabecera-titulo div h1{
+        font-size: 1.9em;
+    }
+    .cabecera-titulo div p{
+        font-size: 1.3em;
+    }
+    .cabecera-imagen div{
+        background-image: url(../assets/images/uno.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 550px;
+    }
+    /* Inicio header */
+}
+@media(min-width: 1200px){
+    /* Inicio header */
+    .cabecera{
+        background-color: #da8b6f;
+        padding-bottom: 1em;
+    }
+    .cabecera-titulo{
+        color: white;
+        text-align: right;
+        padding: 1.9em 1.6em;
+    }
+    .cabecera-titulo div h1{
+        font-size: 2.1em;
+    }
+    .cabecera-titulo div p{
+        font-size: 1.5em;
+    }
+    .cabecera-imagen div{
+        background-image: url(../assets/images/uno.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        width: 100%;
+        height: 650px;
+    }
+    /* Inicio header */
+}
