@@ -22,7 +22,25 @@
         width: 100%;
         height: 350px;
     }
-    /* Inicio header */
+    /* Fin header */
+    /* Inicio seccion1 */
+    .seccion1{
+        background-color: #b1d794;
+    }
+    .seccion1-contenido{
+        background-color: #da8b6f;
+        margin: 2em 5em;
+        padding: 1.5em;
+    }
+    .seccion1-contenido h1{
+        color: white;
+        font-size: 1.2em;
+    }
+    .seccion1-contenido p{
+        color: white;
+        font-size: .9em;
+    }
+    /* Fin seccion1 */
 }
 @media(min-width: 576px) and (max-width: 767px){
     /* Inicio header */
@@ -49,6 +67,24 @@
         height: 400px;
     }
     /* Inicio header */
+    /* Inicio seccion1 */
+    .seccion1{
+        background-color: #b1d794;
+    }
+    .seccion1-contenido{
+        background-color: #da8b6f;
+        margin: 3em 8em;
+        padding: 1.5em;
+    }
+    .seccion1-contenido h1{
+        color: white;
+        font-size: 1.2em;
+    }
+    .seccion1-contenido p{
+        color: white;
+        font-size: .9em;
+    }
+    /* Fin seccion1 */
 }
 @media(min-width: 768px) and (max-width: 991px){
     /* Inicio header */
@@ -75,6 +111,24 @@
         height: 450px;
     }
     /* Inicio header */
+    /* Inicio seccion1 */
+    .seccion1{
+        background-color: #b1d794;
+    }
+    .seccion1-contenido{
+        background-color: #da8b6f;
+        margin: 5em 15em;
+        padding: 1.5em;
+    }
+    .seccion1-contenido h1{
+        color: white;
+        font-size: 1.4em;
+    }
+    .seccion1-contenido p{
+        color: white;
+        font-size: 1.1em;
+    }
+    /* Fin seccion1 */
 }
 @media(min-width: 992px) and (max-width: 1199px){
     /* Inicio header */
@@ -101,6 +155,24 @@
         height: 550px;
     }
     /* Inicio header */
+    /* Inicio seccion1 */
+    .seccion1{
+        background-color: #b1d794;
+    }
+    .seccion1-contenido{
+        background-color: #da8b6f;
+        margin: 5em 22em;
+        padding: 1.5em;
+    }
+    .seccion1-contenido h1{
+        color: white;
+        font-size: 1.4em;
+    }
+    .seccion1-contenido p{
+        color: white;
+        font-size: 1.1em;
+    }
+    /* Fin seccion1 */
 }
 @media(min-width: 1200px){
     /* Inicio header */
@@ -127,4 +199,22 @@
         height: 650px;
     }
     /* Inicio header */
+    /* Inicio seccion1 */
+    .seccion1{
+        background-color: #b1d794;
+    }
+    .seccion1-contenido{
+        background-color: #da8b6f;
+        margin: 10em 32em;
+        padding: 1.5em;
+    }
+    .seccion1-contenido h1{
+        color: white;
+        font-size: 1.4em;
+    }
+    .seccion1-contenido p{
+        color: white;
+        font-size: 1.1em;
+    }
+    /* Fin seccion1 */
 }
