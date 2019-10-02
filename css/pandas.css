@@ -86,6 +86,16 @@
         height: 300px;
     }
     /* Fin seccion4 */
+    /* Inicio Footer */
+    .pie{
+        background-color: #da8b6f;
+        padding-bottom: 1em;
+        text-align: right;
+    }
+    .pie-texto{
+        color: white;
+        padding-right: .5em;
+    }
 }
 @media(min-width: 576px) and (max-width: 767px){
     /* Inicio header */
