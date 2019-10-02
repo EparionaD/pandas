@@ -66,6 +66,7 @@
     }
     .seccion3-contenido div{
         text-align: center;
+        padding-bottom: 1em;
     }
     .seccion3-contenido div img{
         border: 10px solid white;
@@ -129,6 +130,25 @@
         height: 350px;
     }
     /* Fin seccion2 */
+    /* Inicio seccion3 */
+    .seccion3{
+        background-color: #b1d794;
+        text-align: center;
+    }
+    .seccion3-contenido h1{
+        color: white;
+        font-size: 1.5em;
+        margin: 1em 0;
+    }
+    .seccion3-contenido div{
+        text-align: center;
+        padding-bottom: 2em;
+    }
+    .seccion3-contenido div img{
+        border: 10px solid white;
+        margin: .4em;
+    }
+    /* Inicio seccion3 */
 }
 @media(min-width: 768px) and (max-width: 991px){
     /* Inicio header */
@@ -186,6 +206,25 @@
         height: 400px;
     }
     /* Fin seccion2 */
+    /* Inicio seccion3 */
+    .seccion3{
+        background-color: #b1d794;
+        text-align: center;
+    }
+    .seccion3-contenido h1{
+        color: white;
+        font-size: 1.7em;
+        margin: 1em 0;
+    }
+    .seccion3-contenido div{
+        text-align: center;
+        padding-bottom: 2.5em;
+    }
+    .seccion3-contenido div img{
+        border: 10px solid white;
+        margin: .4em;
+    }
+    /* Inicio seccion3 */
 }
 @media(min-width: 992px) and (max-width: 1199px){
     /* Inicio header */
@@ -243,6 +282,25 @@
         height: 450px;
     }
     /* Fin seccion2 */
+    /* Inicio seccion3 */
+    .seccion3{
+        background-color: #b1d794;
+        text-align: center;
+    }
+    .seccion3-contenido h1{
+        color: white;
+        font-size: 1.9em;
+        margin: 1em 0;
+    }
+    .seccion3-contenido div{
+        text-align: center;
+        padding-bottom: 3em;
+    }
+    .seccion3-contenido div img{
+        border: 10px solid white;
+        margin: .4em;
+    }
+    /* Inicio seccion3 */
 }
 @media(min-width: 1200px){
     /* Inicio header */
@@ -300,4 +358,23 @@
         height: 500px;
     }
     /* Fin seccion2 */
+    /* Inicio seccion3 */
+    .seccion3{
+        background-color: #b1d794;
+        text-align: center;
+    }
+    .seccion3-contenido h1{
+        color: white;
+        font-size: 2.1em;
+        margin: 1em 0;
+    }
+    .seccion3-contenido div{
+        text-align: center;
+        padding-bottom: 4em;
+    }
+    .seccion3-contenido div img{
+        border: 10px solid white;
+        margin: .4em;
+    }
+    /* Inicio seccion3 */
 }
